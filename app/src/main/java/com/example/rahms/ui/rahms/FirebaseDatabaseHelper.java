@@ -30,7 +30,7 @@ public class FirebaseDatabaseHelper {
     }
 
     public void readSensors(final DataStatus dataStatus) {
-        mReferenceRahms.orderByChild(dateString).limitToLast(5).addValueEventListener(new ValueEventListener() { // 288 entries every 5 mins reading
+        mReferenceRahms.orderByChild(dateString).limitToLast(5).addValueEventListener(new ValueEventListener() { // reading last 5 entries
             @Override
             public void onDataChange(@NonNull DataSnapshot snapshot) {
                 sensors.clear();
