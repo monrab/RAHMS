@@ -1,5 +1,5 @@
 # RAHMS-Android-App
-![RAHMS in greenhouse](https://github.com/monrab/assets/blob/main/RAHMS%20Client%20in%20a%20greenhouse.jpeg?raw=true)
+![RAHMS in greenhouse](https://github.com/monrab/assets/blob/main/RAHMS%20Client%20in%20a%20greenhouse.jpeg?raw=true){ width=50% height=50% }
 
 
 
